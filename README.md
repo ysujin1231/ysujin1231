@@ -1,5 +1,7 @@
-<div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
+<h1>:books: Studying :books:</h1></div>
+<div align=center>
+<br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <br>
@@ -12,6 +14,4 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-FFA8A5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-
-
 </div>
