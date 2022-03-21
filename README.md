@@ -1,6 +1,7 @@
 <div align=center>
-<h1>:books: Studying :books:</h1></div>
+<h1>:books:</h1></div>
 <div align=center>
+<h3>I'm Currently Learning...👩🏻‍💻</h3>
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
